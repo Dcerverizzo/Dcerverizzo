@@ -1,7 +1,7 @@
 # Welcome to Daniel's Profile
 
-![Black and Red Gaming YouTube Channel Art (1)](https://user-images.githubusercontent.com/13081219/114646245-4bd00300-9cb1-11eb-925d-1b05f08f4907.png)
-
+<!-- ![Black and Red Gaming YouTube Channel Art (1)](https://user-images.githubusercontent.com/13081219/114646245-4bd00300-9cb1-11eb-925d-1b05f08f4907.png)
+ -->
 
 JavaScript developer focused on client-side and user interfaces with over 6 years of experience.  
 Skilled and versatile in creating websites or web applications using regular (HTML/CSS/JS) or advanced technologies as Vue.  
