@@ -1,7 +1,14 @@
-# Welcome to Daniel's Profile
+### Hi there 👋
 
-<!-- ![Black and Red Gaming YouTube Channel Art (1)](https://user-images.githubusercontent.com/13081219/114646245-4bd00300-9cb1-11eb-925d-1b05f08f4907.png)
- -->
+I'm Daniel. I love building things and discovery new ways using coding :raised_hands: 
+
+🔭 I’m currently working on [@cobrefacil](https://www.cobrefacil.com.br/)
+
+📫 How to reach me:
+
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/daniel-cerverizzo/)
+
+---
 
 JavaScript developer focused on client-side and user interfaces with over 6 years of experience.  
 Skilled and versatile in creating websites or web applications using regular (HTML/CSS/JS) or advanced technologies as Vue.  
@@ -20,16 +27,7 @@ Also experienced using NodeJS, php, ruby.
 
 ## About me
 
-http://about.me/cerverizzo  
-
-• Software Enginner at @Cobrefacil
-• Proud Rotaract member 
-• TOEFL ITP Level: B2
-• Web Developer
-• Brazilian jiu jitsu blue belt athlete • Judô black belt brazilian athlete
-• 5+ years experience doing the better everyday
-• founder of "Mão na Roda"
-• JS Lover
+![Metrics](/github-metrics.svg)
 
 ## Waka Time
 
@@ -50,4 +48,3 @@ JSON                       80 hrs 39 mins  -------------------------   01.69 %
 
 <!--END_SECTION:waka-->
 
-![Metrics](/github-metrics.svg)
