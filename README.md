@@ -31,7 +31,7 @@ http://about.me/cerverizzo
 • founder of "Mão na Roda"
 • JS Lover
 
-##Waka Time
+## Waka Time
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
