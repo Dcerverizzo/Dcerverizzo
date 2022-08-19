@@ -30,3 +30,8 @@ http://about.me/cerverizzo
 • 5+ years experience doing the better everyday
 • founder of "Mão na Roda"
 • JS Lover
+
+##Waka Time
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
