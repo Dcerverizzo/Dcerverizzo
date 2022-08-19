@@ -49,3 +49,5 @@ JSON                       80 hrs 39 mins  -------------------------   01.69 %
 ```
 
 <!--END_SECTION:waka-->
+
+![Metrics](/github-metrics.svg)
