@@ -34,4 +34,18 @@ http://about.me/cerverizzo
 ## Waka Time
 
 <!--START_SECTION:waka-->
+
+```text
+From: 08 October 2018 - To: 19 August 2022
+
+Total Time: 4,769 hrs 49 mins
+
+PHP                        1,342 hrs 2 mins>>>>>>>------------------   28.14 %
+Twig                       1,094 hrs 50 mins>>>>>>-------------------   22.95 %
+ERB                        970 hrs 10 mins >>>>>--------------------   20.34 %
+JavaScript                 602 hrs 24 mins >>>----------------------   12.63 %
+Ruby                       437 hrs 59 mins >>-----------------------   09.18 %
+JSON                       80 hrs 39 mins  -------------------------   01.69 %
+```
+
 <!--END_SECTION:waka-->
