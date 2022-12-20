@@ -34,16 +34,16 @@ Also experienced using NodeJS, php, ruby.
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 October 2018 - To: 17 December 2022
+From: 08 October 2018 - To: 18 December 2022
 
-Total Time: 5,272 hrs 13 mins
+Total Time: 5,272 hrs 49 mins
 
 PHP                        1,581 hrs 17 mins>>>>>>>------------------   29.99 %
-Twig                       1,193 hrs 57 mins>>>>>>-------------------   22.65 %
+Twig                       1,193 hrs 57 mins>>>>>>-------------------   22.64 %
 ERB                        970 hrs 10 mins >>>>>--------------------   18.40 %
-JavaScript                 708 hrs 22 mins >>>----------------------   13.44 %
+JavaScript                 708 hrs 47 mins >>>----------------------   13.44 %
 Ruby                       437 hrs 59 mins >>-----------------------   08.31 %
-JSON                       88 hrs 50 mins  -------------------------   01.69 %
+JSON                       89 hrs 1 min    -------------------------   01.69 %
 ```
 
 <!--END_SECTION:waka-->
