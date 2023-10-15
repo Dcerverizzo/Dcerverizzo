@@ -34,7 +34,7 @@ Also experienced using NodeJS, php, ruby.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2018 - To: 12 October 2023
+From: 08 October 2018 - To: 13 October 2023
 
 Total Time: 6,102 hrs 47 mins
 
