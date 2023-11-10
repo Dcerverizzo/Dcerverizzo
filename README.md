@@ -34,9 +34,9 @@ Also experienced using NodeJS, php, ruby.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2018 - To: 07 November 2023
+From: 08 October 2018 - To: 08 November 2023
 
-Total Time: 6,141 hrs 56 mins
+Total Time: 6,142 hrs 8 mins
 
 PHP                        1,956 hrs 12 mins>>>>>>>>-----------------   31.85 %
 Twig                       1,319 hrs 42 mins>>>>>--------------------   21.49 %
