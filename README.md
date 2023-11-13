@@ -34,15 +34,15 @@ Also experienced using NodeJS, php, ruby.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2018 - To: 10 November 2023
+From: 08 October 2018 - To: 11 November 2023
 
-Total Time: 6,146 hrs 30 mins
+Total Time: 6,149 hrs 17 mins
 
-PHP                        1,957 hrs 59 mins>>>>>>>>-----------------   31.86 %
-Twig                       1,319 hrs 50 mins>>>>>--------------------   21.47 %
-ERB                        970 hrs 24 mins >>>>---------------------   15.79 %
-JavaScript                 945 hrs 58 mins >>>>---------------------   15.39 %
-Ruby                       438 hrs 1 min   >>-----------------------   07.13 %
+PHP                        1,957 hrs 59 mins>>>>>>>>-----------------   31.84 %
+Twig                       1,319 hrs 50 mins>>>>>--------------------   21.46 %
+ERB                        970 hrs 24 mins >>>>---------------------   15.78 %
+JavaScript                 948 hrs 43 mins >>>>---------------------   15.43 %
+Ruby                       438 hrs 1 min   >>-----------------------   07.12 %
 ```
 
 <!--END_SECTION:waka-->
