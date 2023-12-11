@@ -1,29 +1,34 @@
-### Hi there 👋
+# About
 
-I'm Daniel. I love building things and discovery new ways using coding :raised_hands: 
+👋 Hi there!
 
-🔭 I’m currently working on [@cobrefacil](https://www.cobrefacil.com.br/)
-
-📫 How to reach me:
-
+I'm Daniel, an avid builder and coding enthusiast 🚀
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/daniel-cerverizzo/)
 
----
+🔭 Currently making an impact at [@cobrefacil](https://github.com/cobrefacil)
 
-JavaScript developer focused on client-side and user interfaces with over 6 years of experience.  
-Skilled and versatile in creating websites or web applications using regular (HTML/CSS/JS) or advanced technologies as Vue.  
-Always driven performance, code quality, tests and good practices.  
- Focused on writing progressive web apps that are backward compatible, modern, maintainable with readable code and good performance.  
-Also experienced using NodeJS, php, ruby. 
+💻 With over eight years of experience as a Full Stack Developer and Technical Leader, I specialize in shaping dynamic client-side experiences and steering projects toward success. From foundational technologies like HTML/CSS/JS to advanced frameworks such as React and NodeJS, I thrive on bringing ideas to life through code.
 
+✨ Committed to excellence in performance, code quality, testing, and best practices across all my projects. My passion lies in crafting progressive web apps—backward compatible, modern, maintainable, with readable code, and optimal performance.
 
-# Skills
+## Professional Background
 
- - Javascript, jQuery, Node.js, VueJS, React
- - MySQL, MongoDB, MariaDB    
- - CSS3, HTML5, SASS/LESS,  Linux, Apache,
- - GIT, Docker, AWS
- - Php, Ruby
+I've been a Full Stack Professional for over 8 years, taking on the role of a Technical Leader in challenging web projects. My expertise lies in developing robust and scalable solutions, from conceptualization to implementation, utilizing the latest technologies and best practices.
+
+## Technical Skills
+
+- Full Stack Development with a focus on JavaScript (Node.js, React, Vue.js).
+- User Experience (UX) and User Interface (UI) Design.
+- Architecture and Implementation of Technological Solutions.
+- Performance Optimization and Scalability.
+- Collaboration and Management of Technical Teams.
+- Mentoring and Professional Development.
+
+## Professional Achievements
+
+I've worked multifunctional teams in different types of projects, delivering impactful results. I've also developed and implemented innovative solutions to optimize internal processes, enhancing operational efficiency.
+
+Let's connect! Excited to collaborate and build something extraordinary together! 🤝✨
 
 ## About me
 
