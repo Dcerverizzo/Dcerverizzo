@@ -39,7 +39,7 @@ Let's connect! Excited to collaborate and build something extraordinary together
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2018 - To: 25 February 2024
+From: 08 October 2018 - To: 26 February 2024
 
 Total Time: 6,199 hrs 11 mins
 
