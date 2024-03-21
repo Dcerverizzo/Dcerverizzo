@@ -32,7 +32,7 @@ Let's connect! Excited to collaborate and build something extraordinary together
 
 ## About me
 
-![Metrics](/github-metrics.svg)
+![Metrics](/general.svg)
 
 ## Waka Time
 
