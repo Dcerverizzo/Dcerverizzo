@@ -39,15 +39,15 @@ Let's connect! Excited to collaborate and build something extraordinary together
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2018 - To: 06 September 2024
+From: 08 October 2018 - To: 08 September 2024
 
-Total Time: 6,591 hrs 42 mins
+Total Time: 6,596 hrs 55 mins
 
-PHP                        1,974 hrs 19 mins>>>>>>>------------------   29.95 %
-Twig                       1,337 hrs 25 mins>>>>>--------------------   20.29 %
-ERB                        970 hrs 24 mins >>>>---------------------   14.72 %
-JavaScript                 967 hrs 32 mins >>>>---------------------   14.68 %
-Ruby                       438 hrs 1 min   >>-----------------------   06.65 %
+PHP                        1,974 hrs 19 mins>>>>>>>------------------   29.93 %
+Twig                       1,337 hrs 25 mins>>>>>--------------------   20.27 %
+ERB                        970 hrs 24 mins >>>>---------------------   14.71 %
+JavaScript                 967 hrs 33 mins >>>>---------------------   14.67 %
+Ruby                       438 hrs 1 min   >>-----------------------   06.64 %
 ```
 
 <!--END_SECTION:waka-->
