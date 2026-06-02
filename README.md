@@ -1,40 +1,84 @@
-# About
+# Daniel Cerverizzo
 
-👋 Hi there!
+**Design Engineer** — I turn product decisions into interfaces that convert.
 
-I'm Daniel, an avid builder and coding enthusiast 🚀
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/daniel-cerverizzo/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-cerverizzo.dev-000000?style=flat&logo=vercel&logoColor=white)](https://cerverizzo.dev)
+[![Blog](https://img.shields.io/badge/Blog-dev.to%2Fdcerverizzo-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/dcerverizzo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-danielcerverizzo-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielcerverizzo)
 
-🔭 Currently making an impact at [@cobrefacil](https://github.com/cobrefacil)
+---
 
-💻 With over eight years of experience as a Full Stack Developer and Technical Leader, I specialize in shaping dynamic client-side experiences and steering projects toward success. From foundational technologies like HTML/CSS/JS to advanced frameworks such as React and NodeJS, I thrive on bringing ideas to life through code.
+## About
 
-✨ Committed to excellence in performance, code quality, testing, and best practices across all my projects. My passion lies in crafting progressive web apps—backward compatible, modern, maintainable, with readable code, and optimal performance.
+10+ years building production-grade interfaces at the intersection of engineering precision and product thinking. Currently at [@cobrefacil](https://github.com/cobrefacil), shipping billing and payment infrastructure used by thousands of Brazilian businesses.
 
-## Professional Background
+I care about the details most engineers skip: the empty states, the error messages that actually tell you what to fix, the CTA that stays visible when you scroll. Those decisions move metrics.
 
-I've been a Full Stack Professional for over 8 years, taking on the role of a Technical Leader in challenging web projects. My expertise lies in developing robust and scalable solutions, from conceptualization to implementation, utilizing the latest technologies and best practices.
+Two results I'm proud of:
+- Redesigned a mobile webinar experience → **45% reduction in abandonment**
+- Rebuilt a payment checkout UI → **+22% conversion rate in production**
 
-## Technical Skills
+---
 
-- Full Stack Development with a focus on JavaScript (Node.js, React, Vue.js).
-- User Experience (UX) and User Interface (UI) Design.
-- Architecture and Implementation of Technological Solutions.
-- Performance Optimization and Scalability.
-- Collaboration and Management of Technical Teams.
-- Mentoring and Professional Development.
+## Stack
 
-## Professional Achievements
+**Core**
 
-I've worked multifunctional teams in different types of projects, delivering impactful results. I've also developed and implemented innovative solutions to optimize internal processes, enhancing operational efficiency.
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 
-Let's connect! Excited to collaborate and build something extraordinary together! 🤝✨
+**Design & UI**
 
-## About me
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-![Metrics](/general.svg)
+**Infrastructure**
 
-## Waka Time
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
+
+**AI Tooling**
+
+![Claude](https://img.shields.io/badge/Claude-Anthropic-D97757?style=flat&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=github&logoColor=white)
+
+---
+
+## Currently Building
+
+- **[cerverizzo.dev/work](https://cerverizzo.dev/work)** — Case studies documenting the product decisions behind real metric improvements
+- Design systems and component libraries for production SaaS products
+- AI-augmented development workflows using Claude SDK + TypeScript
+
+---
+
+## Writing
+
+I write about UI decisions, frontend architecture, and product engineering on dev.to.
+
+- [Microfrontends: Solution or Distributed Complexity?](https://dev.to/dcerverizzo)
+- [Comprehension Debt: The Hidden Cost of Coding Without Understanding](https://dev.to/dcerverizzo)
+
+All articles: [dev.to/dcerverizzo](https://dev.to/dcerverizzo)
+
+---
+
+## GitHub Metrics
+
+![Metrics](general.svg)
+
+## Achievements
+
+![Achievements](achievements.svg)
+
+---
+
+## WakaTime — 7,198 hrs logged since 2018
 
 <!--START_SECTION:waka-->
 
@@ -52,3 +96,6 @@ TypeScript                 603 hrs 18 mins       >>-----------------------   08.
 
 <!--END_SECTION:waka-->
 
+---
+
+Open to remote roles · danielcerverizzo@gmail.com
