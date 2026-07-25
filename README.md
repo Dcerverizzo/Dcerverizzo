@@ -83,15 +83,15 @@ All articles: [dev.to/dcerverizzo](https://dev.to/dcerverizzo)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2018 - To: 23 July 2026
+From: 08 October 2018 - To: 24 July 2026
 
-Total Time: 7,217 hrs 42 mins
+Total Time: 7,230 hrs 43 mins
 
-PHP                        2,150 hrs 36 mins>>>>>>>------------------   29.80 %
-Twig                       1,393 hrs 46 mins>>>>>--------------------   19.31 %
-JavaScript                 975 hrs 33 mins >>>----------------------   13.52 %
-ERB                        970 hrs 24 mins >>>----------------------   13.44 %
-TypeScript                 603 hrs 45 mins >>-----------------------   08.36 %
+PHP                        2,156 hrs 33 mins>>>>>>>------------------   29.82 %
+Twig                       1,393 hrs 47 mins>>>>>--------------------   19.28 %
+JavaScript                 975 hrs 41 mins >>>----------------------   13.49 %
+ERB                        970 hrs 24 mins >>>----------------------   13.42 %
+TypeScript                 604 hrs 4 mins  >>-----------------------   08.35 %
 ```
 
 <!--END_SECTION:waka-->
