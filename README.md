@@ -83,7 +83,7 @@ All articles: [dev.to/dcerverizzo](https://dev.to/dcerverizzo)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2018 - To: 25 September 2026
+From: 08 October 2018 - To: 26 September 2026
 
 Total Time: 7,334 hrs 29 mins
 
